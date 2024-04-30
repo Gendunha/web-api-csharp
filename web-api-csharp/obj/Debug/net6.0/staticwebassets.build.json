@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3sP34J5Ka5GMgKVjqthsNi/8LIl5nVV7QVxEE2Cs6zU=",
+  "Source": "web-api-csharp",
+  "BasePath": "_content/web-api-csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
